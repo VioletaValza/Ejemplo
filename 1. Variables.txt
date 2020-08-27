@@ -1,0 +1,30 @@
+#Programa para la declaracion de las primeras variables 14-08-2020
+
+#Declaracion de variables
+edad=23 #nombre de la variable (edad),valor(23)
+altura=1.73 #nombre de la variable(altura) valor asignado(1.73)
+escuela="TecMM" #Nombre de la varible(Escuela)valor asignado(TecMM)
+
+#Utilizacion de guion bajo para mas de una palabra
+nombre_del_amigo="Itzae"
+
+#Una variable no puede iniciar en un número pero si puede terminar en uno 
+nombre_del_amigo2="Joselyn"
+
+#Mostrar infomación del valor de cada una de las variables
+print(edad)
+print(altura)
+print(escuela)
+
+#Mostrar un valor sin crar la variable 
+print("Alejandra")
+print(21)
+print("TecMM Zapotlanejo")
+
+#Asigar un nuevo valor ala variable creada 
+edad=45
+nombre_del_amigo="Andrea"
+
+#Imprimir datos en pantalla
+print(edad)
+print(nombre_del_amigo)
